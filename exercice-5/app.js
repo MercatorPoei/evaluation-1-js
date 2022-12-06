@@ -40,3 +40,5 @@ console.log("Affichage de chaque ligne");
 for (let i of myArrayWithObjects){
     console.log(`${i.id} ${i.title}`);
 }
+
+//pour git
